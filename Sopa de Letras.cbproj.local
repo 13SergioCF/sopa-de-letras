@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/25 14:27:42.000.535,=C:\Users\Hp\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2022/06/25 14:27:42.000.474,=C:\Users\Hp\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2022/07/01 21:51:50.000.351,=C:\Users\Hp\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2022/07/01 21:51:50.000.473,=C:\Users\Hp\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2022/07/01 21:52:07.000.919,=C:\Users\Hp\Documents\Embarcadero\Studio\Projects\File1.h</Transaction>
+    <Transaction>2022/07/01 22:41:42.000.918,C:\Users\Hp\Documents\Embarcadero\Studio\Projects\Matriz.h=C:\Users\Hp\Documents\Embarcadero\Studio\Projects\File1.h</Transaction>
+    <Transaction>2022/07/01 22:43:32.000.877,D:\CLASES\ESTRUCTURA DE DATOS -S4\PROYECTO\Nueva carpeta (3)\Unit2.cpp=C:\Users\Hp\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2022/07/01 22:43:32.000.877,D:\CLASES\ESTRUCTURA DE DATOS -S4\PROYECTO\Nueva carpeta (3)\Unit2.h=C:\Users\Hp\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2022/07/01 22:43:32.000.877,D:\CLASES\ESTRUCTURA DE DATOS -S4\PROYECTO\Nueva carpeta (3)\Unit2.dfm=C:\Users\Hp\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022/07/01 22:43:36.000.553,D:\CLASES\ESTRUCTURA DE DATOS -S4\PROYECTO\Nueva carpeta (3)\Matriz.h=C:\Users\Hp\Documents\Embarcadero\Studio\Projects\Matriz.h</Transaction>
+    <Transaction>2022/07/01 22:43:38.000.606,D:\CLASES\ESTRUCTURA DE DATOS -S4\PROYECTO\Nueva carpeta (3)\Project2PCH1.h=C:\Users\Hp\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2022/07/01 22:43:40.000.518,D:\CLASES\ESTRUCTURA DE DATOS -S4\PROYECTO\Nueva carpeta (3)\Project2.cbproj=C:\Users\Hp\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>2022/07/02 10:13:21.000.771,=D:\CLASES\ESTRUCTURA DE DATOS -S4\PROYECTO\Nueva carpeta (3)\File1.h</Transaction>
+    <Transaction>2022/07/02 10:13:35.000.885,D:\CLASES\ESTRUCTURA DE DATOS -S4\PROYECTO\Nueva carpeta (3)\File1.h=D:\CLASES\ESTRUCTURA DE DATOS -S4\PROYECTO\Nueva carpeta (3)\Vector.h</Transaction>
+    <Transaction>2022/07/10 10:09:43.000.208,C:\Users\dquin\OneDrive\Documentos\ESTRUCTURA DE DATOS I\PRACTICOS\SOPA DE LETRA PROYECTO\Sopa de Letras.cbproj=C:\Users\dquin\OneDrive\Documentos\ESTRUCTURA DE DATOS I\PRACTICOS\SOPA DE LETRA PROYECTO\Project2.cbproj</Transaction>
+    <Transaction>2022/07/10 10:09:43.000.080,C:\Users\dquin\OneDrive\Documentos\ESTRUCTURA DE DATOS I\PRACTICOS\SOPA DE LETRA PROYECTO\Sopa de LetrasPCH1.h=C:\Users\dquin\OneDrive\Documentos\ESTRUCTURA DE DATOS I\PRACTICOS\SOPA DE LETRA PROYECTO\Project2PCH1.h</Transaction>
+    <Transaction>2022/07/11 00:33:05.000.773,=C:\Users\dquin\OneDrive\Documentos\ESTRUCTURA DE DATOS I\PRACTICOS\SOPA DE LETRA PROYECTO\Unit1.cpp</Transaction>
+    <Transaction>2022/07/11 00:50:08.000.158,C:\Users\dquin\OneDrive\Documentos\ESTRUCTURA DE DATOS I\PRACTICOS\SOPA DE LETRA PROYECTO\Unit1.cpp=</Transaction>
+    <Transaction>2022/07/20 15:41:18.000.348,=C:\Users\dquin\OneDrive\Documentos\ESTRUCTURA DE DATOS I\PRACTICOS\SOPA DE LETRA PROYECTO\Unit3.cpp</Transaction>
+    <Transaction>2022/07/27 20:19:20.000.921,=C:\Users\dquin\OneDrive\Documentos\ESTRUCTURA DE DATOS I\PRACTICOS\SOPA DE LETRA PROYECTO\Unit4.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Matriz.h"/>
+    <File Path="Vector.h"/>
+    <File Path="Sopa de Letras.cpp"/>
+    <File Path="Sopa de LetrasPCH1.h"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit2.h"/>
+    <File Path="Unit3.cpp"/>
+    <File Path="Unit3.cpp"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit3.h"/>
+    <File Path="Unit4.cpp"/>
+    <File Path="Unit4.cpp"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit4.h"/>
+  </ProjectSortOrder>
+</BorlandProject>

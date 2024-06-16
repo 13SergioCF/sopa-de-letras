@@ -1,0 +1,68 @@
+object Form4: TForm4
+  Left = 0
+  Top = 0
+  Caption = 'ACERCA'
+  ClientHeight = 276
+  ClientWidth = 632
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poDesktopCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 392
+    Top = 40
+    Width = 154
+    Height = 13
+    Caption = 'LE PONGO NUSTROS ROSTROS '
+  end
+  object ListBox1: TListBox
+    Left = 32
+    Top = 32
+    Width = 257
+    Height = 225
+    ItemHeight = 13
+    Items.Strings = (
+      '           PROYECTO "SOPA DE LETRAS"'
+      ''
+      'SE IMPLEMENTO ESTRCTURA DE DATOS ESTATICA'
+      'MATERIA: ESTRUCTURA DE DATOS 1'
+      'INTEGRANTES:'
+      '    ELVIS DAVID QUINTEROS SILES'
+      '    FELIX SERGIO CANAVIRI  '
+      '    BISMARK MIGUEL BONILLA C. '
+      ''
+      '                   4TO SEMESTRE'
+      '                          2 0 2 2')
+    TabOrder = 0
+  end
+  object Panel1: TPanel
+    Left = 312
+    Top = 72
+    Width = 73
+    Height = 97
+    Caption = 'Panel1'
+    TabOrder = 1
+  end
+  object Panel2: TPanel
+    Left = 416
+    Top = 72
+    Width = 73
+    Height = 97
+    Caption = 'Panel1'
+    TabOrder = 2
+  end
+  object Panel3: TPanel
+    Left = 520
+    Top = 72
+    Width = 73
+    Height = 97
+    Caption = 'Panel1'
+    TabOrder = 3
+  end
+end

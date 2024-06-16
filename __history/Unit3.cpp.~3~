@@ -1,0 +1,72 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+
+#include "Unit3.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TForm3 *Form3;
+int cont=0;
+int i=1;
+//---------------------------------------------------------------------------
+__fastcall TForm3::TForm3(TComponent* Owner)
+	: TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TForm3::Timer1Timer(TObject *Sender)
+{
+	 cont++;
+
+	 if(cont==1)
+	 {
+		ShowMessage("1");
+		 Lbl_ganaste->Font->Color=clRed;
+
+	 }
+	 if(cont==2)
+	 {  ShowMessage("2");
+		 Lbl_ganaste->Font->Color=clBlue;
+
+	 }if(cont==3)
+	 {   ShowMessage("3");
+		 Lbl_ganaste->Font->Color=clRed;
+
+	 }if(cont==4)
+	 {   ShowMessage("4");
+		 Lbl_ganaste->Font->Color=clBlue;
+
+	 }if(cont==5)
+	 {   ShowMessage("5");
+		 Lbl_ganaste->Font->Color=clRed;
+
+	 }if(cont==6)
+	 {   ShowMessage("6");
+		 Lbl_ganaste->Font->Color=clBlue;
+
+	 }
+	 if(cont==7)
+	 {   ShowMessage("7");
+		 Lbl_ganaste->Font->Color=clRed;
+
+	 }if(cont==8)
+	 {   ShowMessage("8");
+		 Lbl_ganaste->Font->Color=clBlue;
+
+	 }
+	 if(cont==9)
+	 { ShowMessage("9");
+	   Timer1->Enabled=false;
+	   Close();
+	 }
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm3::FormCreate(TObject *Sender)
+{
+ShowMessage("inicio el tiempo");
+ Timer1->Enabled=true;
+}
+//---------------------------------------------------------------------------

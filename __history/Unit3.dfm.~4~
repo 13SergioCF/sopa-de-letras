@@ -1,0 +1,54 @@
+object Form3: TForm3
+  Left = 0
+  Top = 0
+  BorderIcons = [biMinimize, biMaximize, biHelp]
+  ClientHeight = 183
+  ClientWidth = 656
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poDesktopCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = 64
+    Top = 24
+    Width = 505
+    Height = 97
+    ParentBackground = False
+    TabOrder = 0
+    object Lbl_ganaste: TLabel
+      Left = 80
+      Top = 27
+      Width = 331
+      Height = 42
+      Caption = #161#161#161#161#161#161' GANASTE !!!!!!'
+      Font.Charset = ANSI_CHARSET
+      Font.Color = clMenuText
+      Font.Height = -37
+      Font.Name = 'Times New Roman'
+      Font.Style = [fsBold]
+      ParentFont = False
+    end
+  end
+  object Button1: TButton
+    Left = 280
+    Top = 143
+    Width = 75
+    Height = 25
+    Caption = 'OK'
+    TabOrder = 1
+    OnClick = Button1Click
+  end
+  object Timer2: TTimer
+    Enabled = False
+    Interval = 50
+    OnTimer = Timer2Timer
+    Left = 16
+    Top = 8
+  end
+end
